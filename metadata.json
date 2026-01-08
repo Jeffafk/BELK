@@ -1,0 +1,7 @@
+{
+  "name": "AYKACEM - Your Relationship Wingman",
+  "description": "A high-intensity connection app for couples featuring shared wallpapers, WYD requests, and miss-you blasts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
